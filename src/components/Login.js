@@ -48,7 +48,7 @@ const Login = () => {
             required
           />
         </div>
-        <ReCAPTCHA sitekey='6LcldJYqAAAAACGJU8BFNrp1fVEYT62JSuNXAm28'
+        <ReCAPTCHA sitekey='6LfQC58qAAAAABz02xMNVgluf47zbkINIe1UwAb7'
         onChange={(val)=>setCapval(val)}
         />
 
